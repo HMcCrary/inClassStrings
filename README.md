@@ -1,6 +1,6 @@
 ## CSCE 10204: Strings
 
-### toUpperCase
+### toUpperCase() Method
 
 ```java
 public static String toUpperCase(String str)
@@ -11,7 +11,7 @@ public static String toUpperCase(String str)
 
 ---
 
-### subString
+### subString() Method
 
 ```java
 public static String subString(String str, int beginIndex, int endIndex)
@@ -26,7 +26,7 @@ endIndex - the ending index, exclusive.
 
 ---
 
-### toCharArray
+### toCharArray() Method
 
 ```java
 public static char[] toCharArray(String str)
@@ -37,7 +37,7 @@ public static char[] toCharArray(String str)
 
 ---
 
-### split
+### split() Method
 
 ```java
 public static String[] split(String str, char delim)
